@@ -8,6 +8,6 @@ The model is trained on a dataset containing various health parameters such as a
 
 ## Features
 - Data preprocessing (handling missing values, scaling, feature selection)
-- Multiple ML models (e.g., Logistic Regression, Random Forest, SVM, etc.)
+- Multiple ML models (e.g., Logistic Regression, Random Forest, KNN, etc.)
 - Performance evaluation using accuracy, precision, recall, and F1-score
 - Visualizations for insights
